@@ -16,7 +16,7 @@
 
 ## 📊 Banco de Dados
 
-Se utilizo la base de datos <strong>Sqlite</strong> para el proyecto, importando el conector JAR <strong>sqlite-jdbc-3.40.0.0</string> al proyecto
+Se utilizo la base de datos <strong>Sqlite</strong> para el proyecto, importando el conector JAR <strong>sqlite-jdbc-3.40.0.0</string> al proyecto.  Se incluyo en el arbol de directorio el archivo aluraHotel.db que es la base de datos que se utilizo para las pruebas.
 
 ![imagen](https://user-images.githubusercontent.com/61704585/210904492-bf2d5644-5e9c-43ef-b122-800f826ffc2e.png)
 
