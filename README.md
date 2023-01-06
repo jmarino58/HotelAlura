@@ -14,14 +14,11 @@
 - Java 11
 </br>
 
----
-<img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173691963-1e3d966e-5162-4393-9232-d5d395d5440f.png">
-</p>
-
 ## 📊 Banco de Dados
 
 Se utilizo la base de datos <strong>Sqlite</strong> para el proyecto, importando el conector JAR <strong>sqlite-jdbc-3.40.0.0</string> al proyecto
 
+![imagen](https://user-images.githubusercontent.com/61704585/210904492-bf2d5644-5e9c-43ef-b122-800f826ffc2e.png)
 
 🧡 <strong>Oracle</strong></br>
 <a href="https://www.linkedin.com/company/oracle/" target="_blank">
