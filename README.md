@@ -15,7 +15,7 @@
 </br>
 
 ---
-mg width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173691963-1e3d966e-5162-4393-9232-d5d395d5440f.png">
+<img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173691963-1e3d966e-5162-4393-9232-d5d395d5440f.png">
 </p>
 
 ## 📊 Banco de Dados
